@@ -1,9 +1,7 @@
 import React from 'react'
 
-function About() {
+export default function About() {
   return (
-    <h1 className='text-zinc-950 bg-red-950'>About u</h1>
+    <div>About</div>
   )
 }
-
-export default About;
